@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.2
+fuzzywuzzy==0.18.0
+fake-useragent==1.4.0
+selenium==4.15.2
+undetected-chromedriver==3.5.4
+nltk ==3.8.1
+python-dateutil
