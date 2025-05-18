@@ -3,14 +3,18 @@ import json
 import pickle
 import smtplib
 
+from dotenv import load_dotenv
+load_dotenv()
+
 class ArbTracker():
     def __init__(self):
         self.arbs = {}
         self.HOST = "smtp-mail.outlook.com"
         self.PORT = 587
-        self.FROM_EMAIL = "sports_arbing@outlook.com"
-        self.TO_EMAIL = "ayushp802@gmail.com"
-        self.PASSWORD = "$portsBets123"
+        self.FROM_EMAIL = os.getenv("FROM_EMAIL")
+        self.TO_EMAIL = os.getenv("TO_EMAIL")
+        self.PASSWORD = os.getenv("EMAIL_PASSWORD")
+
 
     def track(self):
         if os.path.exists("possible_arbs"):
