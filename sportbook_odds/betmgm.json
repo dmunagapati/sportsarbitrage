@@ -1,727 +1,240 @@
 {
     "Basketball - NBA": {
-        "2024-03-09 16:00:00": {
-            "Bulls vs. Clippers": {
-                "team1_moneyline": "+230",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "-275",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "+7.5": {
-                        "team1_spread_odds": "-115",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "-7.5": {
-                        "team2_spread_odds": "-105",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "220.5": {
-                        "total_over_odds": "-105",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "220.5": {
-                        "total_under_odds": "-115",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:07:50"
-            }
-        },
-        "2024-03-09 19:00:00": {
-            "Nets vs. Hornets": {
-                "team1_moneyline": "-250",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "+200",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "-6.5": {
-                        "team1_spread_odds": "-110",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "+6.5": {
-                        "team2_spread_odds": "-110",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "207.5": {
-                        "total_over_odds": "-110",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "207.5": {
-                        "total_under_odds": "-110",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:07:50"
-            },
-            "Mavericks vs. Pistons": {
-                "team1_moneyline": "-300",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "+240",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "-7.5": {
-                        "team1_spread_odds": "-110",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "+7.5": {
-                        "team2_spread_odds": "-110",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "234.5": {
-                        "total_over_odds": "-110",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "234.5": {
-                        "total_under_odds": "-110",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:07:50"
-            }
-        },
-        "2024-03-09 20:30:00": {
-            "Celtics vs. Suns": {
-                "team1_moneyline": "-225",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "+180",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "-5.5": {
-                        "team1_spread_odds": "-110",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "+5.5": {
-                        "team2_spread_odds": "-110",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "226.5": {
-                        "total_over_odds": "-110",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "226.5": {
-                        "total_under_odds": "-110",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:07:50"
-            },
-            "Spurs vs. Warriors": {
-                "team1_moneyline": "+425",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "-600",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "+11.5": {
-                        "team1_spread_odds": "-115",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "-11.5": {
-                        "team2_spread_odds": "-105",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "227.5": {
-                        "total_over_odds": "-110",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "227.5": {
-                        "total_under_odds": "-110",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:07:50"
-            }
-        },
-        "2024-03-09 21:00:00": {
-            "Jazz vs. Nuggets": {
-                "team1_moneyline": "+550",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "-800",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "+12.5": {
-                        "team1_spread_odds": "-110",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "-12.5": {
-                        "team2_spread_odds": "-110",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "228.5": {
-                        "total_over_odds": "-105",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "228.5": {
-                        "total_under_odds": "-115",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:07:50"
-            }
-        },
-        "2024-03-09 22:00:00": {
-            "Raptors vs. Trail Blazers": {
-                "team1_moneyline": "-155",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "+125",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "-2.5": {
-                        "team1_spread_odds": "-115",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "+2.5": {
-                        "team2_spread_odds": "-105",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "226.5": {
-                        "total_over_odds": "-115",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "226.5": {
-                        "total_under_odds": "-105",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:07:50"
-            }
-        }
-    },
-    "Basketball - WNCAAB": {
-        "Live": {
-            "Duquesne vs. Richmond": {
+        "2025-05-18 15:30:00": {
+            "Nuggets vs. Thunder": {
                 "team1_moneyline": "+260",
                 "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "-350",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "+7.5": {
-                        "team1_spread_odds": "-105",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "-7.5": {
-                        "team2_spread_odds": "-125",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "139.5": {
-                        "total_over_odds": "-110",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "139.5": {
-                        "total_under_odds": "-120",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:07:52"
-            },
-            "Baylor vs. Iowa State": {
-                "team1_moneyline": "-210",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "+175",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "-4.5": {
-                        "team1_spread_odds": "-110",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "+4.5": {
-                        "team2_spread_odds": "-110",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "140.5": {
-                        "total_over_odds": "-110",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "140.5": {
-                        "total_under_odds": "-110",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:07:52"
-            },
-            "Providence vs. Connecticut": {
-                "team1_moneyline": null,
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": null,
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "+34.5": {
-                        "team1_spread_odds": "-110",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "-34.5": {
-                        "team2_spread_odds": "-110",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "129.5": {
-                        "total_over_odds": "-110",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "129.5": {
-                        "total_under_odds": "-110",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:07:52"
-            }
-        },
-        "2024-03-09 14:00:00": {
-            "Maryland vs. Nebraska": {
-                "team1_moneyline": "-145",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "+120",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "-2.5": {
-                        "team1_spread_odds": "-110",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "+2.5": {
-                        "team2_spread_odds": "-110",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "144.5": {
-                        "total_over_odds": "-110",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "144.5": {
-                        "total_under_odds": "-110",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:07:52"
-            }
-        },
-        "2024-03-09 14:30:00": {
-            "Florida State vs. North Carolina State": {
-                "team1_moneyline": "+340",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "-450",
+                "team2_moneyline": "-325",
                 "team2_moneyline_book": "betmgm",
                 "team1_spread": {
                     "+8.5": {
-                        "team1_spread_odds": "-110",
+                        "team1_spread_odds": "-115",
                         "team1_spread_book": "betmgm"
                     }
                 },
                 "team2_spread": {
                     "-8.5": {
-                        "team2_spread_odds": "-110",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "147.5": {
-                        "total_over_odds": "-110",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "147.5": {
-                        "total_under_odds": "-110",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:07:52"
-            }
-        },
-        "2024-03-09 16:30:00": {
-            "Michigan U vs. Iowa": {
-                "team1_moneyline": "+1000",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "-3000",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "+15.5": {
-                        "team1_spread_odds": "-110",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "-15.5": {
-                        "team2_spread_odds": "-110",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "157.5": {
-                        "total_over_odds": "-110",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "157.5": {
-                        "total_under_odds": "-110",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:07:52"
-            }
-        }
-    },
-    "Basketball - Argentina Liga Nacional De Basquetbol": {
-        "Live": {
-            "Club Atletico Riachuelo de La Rioja vs. Comunicaciones": {
-                "team1_moneyline": "+375",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "-700",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "+4.5": {
-                        "team1_spread_odds": "+100",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "-4.5": {
-                        "team2_spread_odds": "-145",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "202.5": {
-                        "total_over_odds": "+105",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "202.5": {
-                        "total_under_odds": "-150",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:08:16"
-            }
-        }
-    },
-    "Basketball - Australia NBL": {
-        "2024-03-09 23:00:00": {
-            "Illawarra Hawks vs. Melbourne United": {
-                "team1_moneyline": "+120",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "-150",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "+3.5": {
-                        "team1_spread_odds": "-120",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "-3.5": {
                         "team2_spread_odds": "-105",
                         "team2_spread_book": "betmgm"
                     }
                 },
                 "over": {
-                    "178.5": {
+                    "213.5": {
                         "total_over_odds": "-110",
                         "total_over_book": "betmgm"
                     }
                 },
                 "under": {
-                    "178.5": {
+                    "213.5": {
                         "total_under_odds": "-110",
                         "total_under_book": "betmgm"
                     }
                 },
-                "last_updated": "09/03/2024 11:08:19"
+                "last_updated": "17/05/2025 21:21:57"
+            }
+        },
+        "2025-05-21 20:00:00": {
+            "Pacers vs. Knicks": {
+                "team1_moneyline": "+150",
+                "team1_moneyline_book": "betmgm",
+                "team2_moneyline": "-185",
+                "team2_moneyline_book": "betmgm",
+                "team1_spread": {
+                    "+4.5": {
+                        "team1_spread_odds": "-115",
+                        "team1_spread_book": "betmgm"
+                    }
+                },
+                "team2_spread": {
+                    "-4.5": {
+                        "team2_spread_odds": "-105",
+                        "team2_spread_book": "betmgm"
+                    }
+                },
+                "over": {
+                    "222.5": {
+                        "total_over_odds": "-115",
+                        "total_over_book": "betmgm"
+                    }
+                },
+                "under": {
+                    "222.5": {
+                        "total_under_odds": "-105",
+                        "total_under_book": "betmgm"
+                    }
+                },
+                "last_updated": "17/05/2025 21:21:57"
+            }
+        }
+    },
+    "Basketball - Israel Super League": {
+        "2025-05-18 13:30:00": {
+            "Bnei Herzliya vs. Hapoel Holon": {
+                "team1_moneyline": "-145",
+                "team1_moneyline_book": "betmgm",
+                "team2_moneyline": "+100",
+                "team2_moneyline_book": "betmgm",
+                "team1_spread": {
+                    "-2.5": {
+                        "team1_spread_odds": "-110",
+                        "team1_spread_book": "betmgm"
+                    }
+                },
+                "team2_spread": {
+                    "+2.5": {
+                        "team2_spread_odds": "-130",
+                        "team2_spread_book": "betmgm"
+                    }
+                },
+                "over": {
+                    "173.5": {
+                        "total_over_odds": "-120",
+                        "total_over_book": "betmgm"
+                    }
+                },
+                "under": {
+                    "173.5": {
+                        "total_under_odds": "-120",
+                        "total_under_book": "betmgm"
+                    }
+                },
+                "last_updated": "17/05/2025 21:22:25"
             }
         }
     },
     "Basketball - Brazil NBB": {
-        "2024-03-09 15:00:00": {
-            "Caxias do Sul vs. Bauru": {
+        "2025-05-18 09:00:00": {
+            "Corinthians vs. Flamengo": {
                 "team1_moneyline": "+145",
                 "team1_moneyline_book": "betmgm",
                 "team2_moneyline": "-210",
                 "team2_moneyline_book": "betmgm",
                 "team1_spread": {
                     "+4.5": {
-                        "team1_spread_odds": "-110",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "-4.5": {
-                        "team2_spread_odds": "-125",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "155.5": {
-                        "total_over_odds": "-120",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "155.5": {
-                        "total_under_odds": "-120",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:08:22"
-            },
-            "EC Pinheiros vs. Basquete Cearense": {
-                "team1_moneyline": "-160",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "+115",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "-2.5": {
-                        "team1_spread_odds": "-125",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "+2.5": {
-                        "team2_spread_odds": "-110",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "155.5": {
-                        "total_over_odds": "-120",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "155.5": {
-                        "total_under_odds": "-120",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:08:22"
-            },
-            "Corinthians vs. Unifacisa": {
-                "team1_moneyline": "-160",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "+115",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "-2.5": {
-                        "team1_spread_odds": "-125",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "+2.5": {
-                        "team2_spread_odds": "-110",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "160.5": {
-                        "total_over_odds": "-120",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "160.5": {
-                        "total_under_odds": "-120",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:08:22"
-            }
-        },
-        "2024-03-09 16:00:00": {
-            "Mogi das Cruzes vs. Sao Jose": {
-                "team1_moneyline": "+190",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "-275",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "+6.5": {
                         "team1_spread_odds": "-115",
                         "team1_spread_book": "betmgm"
                     }
                 },
                 "team2_spread": {
-                    "-6.5": {
+                    "-4.5": {
                         "team2_spread_odds": "-120",
                         "team2_spread_book": "betmgm"
                     }
                 },
                 "over": {
-                    "157.5": {
-                        "total_over_odds": "-120",
+                    "165.5": {
+                        "total_over_odds": "-118",
                         "total_over_book": "betmgm"
                     }
                 },
                 "under": {
-                    "157.5": {
-                        "total_under_odds": "-115",
+                    "165.5": {
+                        "total_under_odds": "-118",
                         "total_under_book": "betmgm"
                     }
                 },
-                "last_updated": "09/03/2024 11:08:22"
-            },
-            "Pato Basquete vs. Club Athletico Paulistano": {
-                "team1_moneyline": "+155",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "-225",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "+5.5": {
-                        "team1_spread_odds": "-120",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "-5.5": {
-                        "team2_spread_odds": "-115",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "151.5": {
-                        "total_over_odds": "-120",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "151.5": {
-                        "total_under_odds": "-115",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:08:22"
+                "last_updated": "17/05/2025 21:22:57"
             }
-        }
-    },
-    "Basketball - Lithuania LKL": {
-        "Live": {
-            "BC Jonava vs. Lietkabelis": {
-                "team1_moneyline": "+750",
+        },
+        "2025-05-18 10:00:00": {
+            "EC Pinheiros vs. Sesi Franca": {
+                "team1_moneyline": "+145",
                 "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "-3000",
+                "team2_moneyline": "-210",
                 "team2_moneyline_book": "betmgm",
                 "team1_spread": {
-                    "+14.5": {
-                        "team1_spread_odds": "-125",
+                    "+4.5": {
+                        "team1_spread_odds": "-118",
                         "team1_spread_book": "betmgm"
                     }
                 },
                 "team2_spread": {
-                    "-14.5": {
-                        "team2_spread_odds": "-115",
+                    "-4.5": {
+                        "team2_spread_odds": "-118",
                         "team2_spread_book": "betmgm"
                     }
                 },
                 "over": {
-                    "null": {
-                        "total_over_odds": null,
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "null": {
-                        "total_under_odds": null,
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "09/03/2024 11:08:36"
-            }
-        }
-    },
-    "Basketball - Sweden Basketligan": {
-        "2024-03-09 14:00:00": {
-            "Jamtland Basket vs. Umea BSKT": {
-                "team1_moneyline": null,
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": null,
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "-19": {
-                        "team1_spread_odds": "5",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "+105": {
-                        "team2_spread_odds": "+19",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "172,5": {
+                    "156.5": {
                         "total_over_odds": "-115",
                         "total_over_book": "betmgm"
                     }
                 },
                 "under": {
-                    "172,5": {
+                    "156.5": {
+                        "total_under_odds": "-120",
+                        "total_under_book": "betmgm"
+                    }
+                },
+                "last_updated": "17/05/2025 21:22:57"
+            }
+        }
+    },
+    "Basketball - Lithuania LKL": {
+        "2025-05-18 09:30:00": {
+            "Zalgiris vs. Lietuvos rytas": {
+                "team1_moneyline": "-285",
+                "team1_moneyline_book": "betmgm",
+                "team2_moneyline": "+185",
+                "team2_moneyline_book": "betmgm",
+                "team1_spread": {
+                    "-6.5": {
+                        "team1_spread_odds": "-120",
+                        "team1_spread_book": "betmgm"
+                    }
+                },
+                "team2_spread": {
+                    "+6.5": {
+                        "team2_spread_odds": "-118",
+                        "team2_spread_book": "betmgm"
+                    }
+                },
+                "over": {
+                    "167.5": {
+                        "total_over_odds": "-115",
+                        "total_over_book": "betmgm"
+                    }
+                },
+                "under": {
+                    "167.5": {
                         "total_under_odds": "-125",
                         "total_under_book": "betmgm"
                     }
                 },
-                "last_updated": "09/03/2024 11:08:38"
+                "last_updated": "17/05/2025 21:23:18"
+            }
+        },
+        "2025-05-18 12:00:00": {
+            "BC Wolves vs. BC Jonava": {
+                "team1_moneyline": "-275",
+                "team1_moneyline_book": "betmgm",
+                "team2_moneyline": "+185",
+                "team2_moneyline_book": "betmgm",
+                "team1_spread": {
+                    "-6.5": {
+                        "team1_spread_odds": "-120",
+                        "team1_spread_book": "betmgm"
+                    }
+                },
+                "team2_spread": {
+                    "+6.5": {
+                        "team2_spread_odds": "-120",
+                        "team2_spread_book": "betmgm"
+                    }
+                },
+                "over": {
+                    "180.5": {
+                        "total_over_odds": "-120",
+                        "total_over_book": "betmgm"
+                    }
+                },
+                "under": {
+                    "180.5": {
+                        "total_under_odds": "-118",
+                        "total_under_book": "betmgm"
+                    }
+                },
+                "last_updated": "17/05/2025 21:23:18"
             }
         }
     }

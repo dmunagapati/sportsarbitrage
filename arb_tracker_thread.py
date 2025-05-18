@@ -74,8 +74,12 @@ class ArbTracker():
             for tup in self.arbs.keys():
                 send_message.append(tup)
             
-        if len(send_message)>0:
-            self.send_mail(send_message)
+        if len(send_message) > 0:
+            print("NEW ARBITRAGE FOUND:")
+            for arb in send_message:
+                print(arb)
+                self.send_mail(send_message)
+
         with open("old_arbs.pkl", "wb") as outfile:
             pickle.dump(self.arbs, outfile)
 
