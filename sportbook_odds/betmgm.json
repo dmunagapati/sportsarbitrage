@@ -1,72 +1,4 @@
 {
-    "Basketball - NBA": {
-        "2025-05-18 15:30:00": {
-            "Nuggets vs. Thunder": {
-                "team1_moneyline": "+260",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "-325",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "+8.5": {
-                        "team1_spread_odds": "-115",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "-8.5": {
-                        "team2_spread_odds": "-105",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "213.5": {
-                        "total_over_odds": "-110",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "213.5": {
-                        "total_under_odds": "-110",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "17/05/2025 21:35:06"
-            }
-        },
-        "2025-05-21 20:00:00": {
-            "Pacers vs. Knicks": {
-                "team1_moneyline": "+150",
-                "team1_moneyline_book": "betmgm",
-                "team2_moneyline": "-185",
-                "team2_moneyline_book": "betmgm",
-                "team1_spread": {
-                    "+4.5": {
-                        "team1_spread_odds": "-115",
-                        "team1_spread_book": "betmgm"
-                    }
-                },
-                "team2_spread": {
-                    "-4.5": {
-                        "team2_spread_odds": "-105",
-                        "team2_spread_book": "betmgm"
-                    }
-                },
-                "over": {
-                    "222.5": {
-                        "total_over_odds": "-115",
-                        "total_over_book": "betmgm"
-                    }
-                },
-                "under": {
-                    "222.5": {
-                        "total_under_odds": "-105",
-                        "total_under_book": "betmgm"
-                    }
-                },
-                "last_updated": "17/05/2025 21:35:06"
-            }
-        }
-    },
     "Basketball - Israel Super League": {
         "2025-05-18 13:30:00": {
             "Bnei Herzliya vs. Hapoel Holon": {
@@ -98,7 +30,7 @@
                         "total_under_book": "betmgm"
                     }
                 },
-                "last_updated": "17/05/2025 21:35:36"
+                "last_updated": "17/05/2025 21:43:04"
             }
         }
     },
@@ -133,7 +65,7 @@
                         "total_under_book": "betmgm"
                     }
                 },
-                "last_updated": "17/05/2025 21:36:11"
+                "last_updated": "17/05/2025 21:43:33"
             }
         },
         "2025-05-18 10:00:00": {
@@ -166,7 +98,7 @@
                         "total_under_book": "betmgm"
                     }
                 },
-                "last_updated": "17/05/2025 21:36:11"
+                "last_updated": "17/05/2025 21:43:33"
             }
         }
     },
@@ -201,7 +133,7 @@
                         "total_under_book": "betmgm"
                     }
                 },
-                "last_updated": "17/05/2025 21:36:32"
+                "last_updated": "17/05/2025 21:43:50"
             }
         },
         "2025-05-18 12:00:00": {
@@ -234,7 +166,7 @@
                         "total_under_book": "betmgm"
                     }
                 },
-                "last_updated": "17/05/2025 21:36:32"
+                "last_updated": "17/05/2025 21:43:50"
             }
         }
     }
